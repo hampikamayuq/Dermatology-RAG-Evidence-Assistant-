@@ -1,0 +1,42 @@
+[
+  {
+    "source_id": "SYN-DERM-001",
+    "title": "Evaluation of changing pigmented lesions",
+    "evidence_type": "synthetic teaching summary",
+    "year": 2026,
+    "tags": ["pigmented lesion", "melanoma", "dermoscopy", "biopsy", "evolution"],
+    "text": "A changing pigmented lesion with concerning morphology should receive clinician assessment; dermoscopy and biopsy may be considered according to the clinical context. Evolution over time is an important feature to document."
+  },
+  {
+    "source_id": "SYN-DERM-002",
+    "title": "Persistent scaly lesions on sun-exposed skin",
+    "evidence_type": "synthetic teaching summary",
+    "year": 2026,
+    "tags": ["actinic keratosis", "sun exposure", "keratinocyte cancer", "scaly lesion"],
+    "text": "Persistent scaly lesions on chronically sun-exposed skin merit clinical examination because benign inflammatory conditions and keratinocytic neoplasia can overlap in appearance. Management depends on examination findings and diagnostic certainty."
+  },
+  {
+    "source_id": "SYN-DERM-003",
+    "title": "Inflammatory dermatoses and remote assessment",
+    "evidence_type": "synthetic teaching summary",
+    "year": 2026,
+    "tags": ["dermatitis", "psoriasis", "teledermatology", "history"],
+    "text": "Remote assessment of inflammatory dermatoses can support history-taking and follow-up, but morphology, distribution, treatment response, and red flags should be interpreted in clinical context. Diagnostic uncertainty should be stated explicitly."
+  },
+  {
+    "source_id": "SYN-DERM-004",
+    "title": "Limits of remote lesion assessment",
+    "evidence_type": "synthetic teaching summary",
+    "year": 2026,
+    "tags": ["teledermatology", "image quality", "in-person assessment", "uncertainty"],
+    "text": "When image quality, lighting, scale, palpation findings, or lesion evolution cannot be adequately assessed remotely, the system should communicate uncertainty and recommend appropriate in-person assessment rather than overstate diagnostic confidence."
+  },
+  {
+    "source_id": "SYN-DERM-005",
+    "title": "Safety escalation for severe mucocutaneous presentations",
+    "evidence_type": "synthetic teaching summary",
+    "year": 2026,
+    "tags": ["mucosal involvement", "fever", "blistering", "urgent assessment", "safety"],
+    "text": "Blistering eruptions associated with systemic symptoms or significant mucosal involvement can represent serious disease and require prompt clinical assessment. Remote text generation should not delay urgent evaluation when red flags are present."
+  }
+]
