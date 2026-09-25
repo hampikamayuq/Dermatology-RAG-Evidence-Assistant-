@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "dermatology-rag-evidence-assistant"
+version = "0.1.0"
+description = "Evidence-grounded dermatology RAG portfolio project with citation validation."
+requires-python = ">=3.11"
+dependencies = [
+  "pydantic>=2.8",
+  "scikit-learn>=1.5"
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0"]
+
+[project.scripts]
+derm-rag = "derm_rag.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
