@@ -1,5 +1,7 @@
 # Dermatology RAG Evidence Assistant
 
+[![CI](https://github.com/hampikamayuq/Dermatology-RAG-Evidence-Assistant-/actions/workflows/ci.yml/badge.svg)](https://github.com/hampikamayuq/Dermatology-RAG-Evidence-Assistant-/actions/workflows/ci.yml)
+
 A clinician-oriented retrieval-augmented generation (RAG) portfolio project for evidence-grounded dermatology answers with explicit source citations.
 
 > **Portfolio / research demo only.** The bundled evidence cards are synthetic teaching summaries, not clinical guidelines. This repository does not provide patient-specific medical advice and contains no patient data.
