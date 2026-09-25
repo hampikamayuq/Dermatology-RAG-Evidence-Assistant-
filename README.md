@@ -118,3 +118,8 @@ tests/
 
 **Diego Ivan Galvez Sanchez**  
 Physician · Dermatologist · Applied AI & Healthcare
+
+## Related portfolio projects
+
+- [Clinical AI Automation](https://github.com/hampikamayuq/Clinical-AI-Automation)
+- [Medical LLM Evaluation Bench](https://github.com/hampikamayuq/Medical-LLM-Evaluation-Bench)
